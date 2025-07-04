@@ -1,0 +1,15 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Temporary downloaded files
+/downloads
+
+# Local binaries
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+yt-dlp.exe
+youtube.com_cookies.txt 
